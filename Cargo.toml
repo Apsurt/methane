@@ -1,0 +1,7 @@
+[package]
+name = "methane"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+mendeleev = "0.8.1"
